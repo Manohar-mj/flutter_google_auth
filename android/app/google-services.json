@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468591651404",
+    "project_id": "sign-be54e",
+    "storage_bucket": "sign-be54e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468591651404:android:2edea713d748ed17fe62e9",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468591651404-6ojmhcv6jr05f1d6n0fa843ntmh05h9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcR3nb1YJBwDlKu90zFg83aOiBEcNP7T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468591651404-6ojmhcv6jr05f1d6n0fa843ntmh05h9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
